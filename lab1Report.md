@@ -2,16 +2,16 @@
 
 ## 1. Installing VS Code
 
-To install VS Code, go to [the VS code website](https://code.visualstudio.com/) and follow their 
+To install VS Code, go to [the VS code website][1] and follow their 
 instructions for your particular system. Just run the installer and follow its directions.
 
-Once it is installed, it should look like: ![Image](image12.png)
+Once it is installed, it should look like: ![Image][3]
 
 ## 2. Remotely Connecting
 
 First, make sure you have your account set up with your username and password. 
 
-If you are on a windows machine, you will also have to install Git from the [Git website](https://gitforwindows.org/).
+If you are on a windows machine, you will also have to install Git from the [Git website][2].
 
 Now, you should be able to use the `git bash` terminal 
 
@@ -35,7 +35,29 @@ If its your first time getting this message, respond with yes as it will allow y
 Then you will be prompted to input your password. You wont be able to see your password as you are typing it, but trust that it is reading your key presses. 
 
 Once you are logged in, your terminal should look like this:
-![Image](cse15lLab1Report1.png)
+![Image][4]
 
 ## 3. Trying Some Commands
 
+How that you have access to this remote computer, try to run some commands. Some commands you can try are:
+
+- `pwd`
+- `cd`
+- `cd ~`
+- `ls`
+- `ls -lat`
+- `ls -a`
+
+If you try some of these commands you will get an output similar to:
+![Image][5]
+![Image][6]
+
+Then you can use `exit` to log out of the remote server
+
+[1]: https://code.visualstudio.com/
+[2]: https://gitforwindows.org/
+
+[3]: vsCodeScreenshot.png
+[4]: cse15lLab1Report1.png
+[5]: cse15lLab1Report2.png
+[6]: cse15lLab1Report3.png
