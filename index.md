@@ -6,4 +6,4 @@ Hello world!
 
 [Test](https://dgkogan.github.io/cse15l-lab-reports/test)
 
-[Lab 1 Report](https://dgkogan.github.io/cse15l-lab-reports/lab1Report)
+[Lab 1 Report](https://dgkogan.github.io/cse15l-lab-reports/Lab1/lab1Report)
