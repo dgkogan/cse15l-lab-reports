@@ -1,4 +1,4 @@
-# Lab 1 Report
+# Lab Report 1
 
 ## 1. Installing VS Code
 
