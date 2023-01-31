@@ -6,17 +6,17 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Launch StringServer",
             "request": "launch",
-            "mainClass": "${file}",
+            "mainClass": "StringServer",
+            "projectName": "cse15l-lab-reports_e816f73e",
             "args": ["4000"]
         },
         {
             "type": "java",
-            "name": "Launch NumberServer",
+            "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "NumberServer",
-            "projectName": "cse15l-lab-reports_e816f73e"
+            "mainClass": "${file}",
         }
     ]
 }
