@@ -105,9 +105,6 @@ The fixed function only looped to the middle of the array, and swapped the value
 
 I learned about web servers and URIs in these labs. I dint know how url requests were handled before and the different formats of statements in urls were queries. Also, I didn't know was some different symbols meant like that `%20` represented a " "(space) that is automatically inserted into your url. 
 
-
-
-
 [1]: cse15lLabReport2p1.png
 [2]: cse15lLabReport2p2.png
 [3]: cse15lLabReport2p3.png
