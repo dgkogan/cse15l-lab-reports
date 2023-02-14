@@ -116,4 +116,4 @@ $</code></pre>
 
 This examples shows -S as well as all the other options being used. Here there is text highlighting of the word `Columbus`, line numbers, no line wrapping, and the output persists in the command line. This combination can be useful to have a specialized reference to a file open that also doesn't take a lot of room on the command line.
 
-All command options and descriptions were found in the help screen of the less command accessed by running `less --help` and on [Tutorialspoint](utorialspoint.com/unix_commands/less.htm).
+All command options and descriptions were found in the help screen of the less command accessed by running `less --help` and on [Tutorialspoint](https://www.tutorialspoint.com/unix_commands/less.htm).
