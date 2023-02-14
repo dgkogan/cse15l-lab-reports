@@ -9,3 +9,5 @@ Hello world!
 [Lab Report 1](https://dgkogan.github.io/cse15l-lab-reports/LabReport1/labReport1)
 
 [Lab Report 2](https://dgkogan.github.io/cse15l-lab-reports/LabReport2/labReport2)
+
+[Lab Report 3](https://dgkogan.github.io/cse15l-lab-reports/LabReport3/labReport3)
