@@ -2,15 +2,16 @@
 
 ## Commands 
 
-ssh cs15lwi23anu@ieng6.ucsd.edu`<enter>`
+
+```ssh cs15lwi23anu@ieng6.ucsd.edu <enter>```
 ![Image][1]
 
-git clone git@github.com:dgkogan/lab7.git`<enter>`
+```git clone git@github.com:dgkogan/lab7.git <enter>```
 ![Image][2]
 
-cd lab7/`<enter>`<br />
-javac -cp lib/junit-4.13.2.jar *.java`<enter>`<br />
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`<enter>`<br />
+```cd lab7/<enter> ```<br />```
+javac -cp lib/junit-4.13.2.jar *.java<enter> ```<br />```
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests<enter> ```<br />``` ```
 ![Image][3]
 
 nano ListExamples.java`<enter>`<br />
