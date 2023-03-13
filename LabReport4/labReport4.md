@@ -11,20 +11,20 @@
 
 ```cd lab7/<enter> ```<br />```
 javac -cp lib/junit-4.13.2.jar *.java<enter> ```<br />```
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests<enter> ```<br />``` ```
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests<enter>```
 ![Image][3]
 
 ```nano ListExamples.java<enter>```<br />```
-42 <down>, 12 <right>, <backspace>, 2, <ctrl+o>, <enter>, <ctrl+x> ```<br />``` ```
+42 <down>, 12 <right>, <backspace>, 2, <ctrl+o>, <enter>, <ctrl+x>```
 ![Image][4]
 ![Image][5]
 
-```2 <up>, <enter>, 2 <up>, <enter> ```<br />``` ```
+```2 <up>, <enter>, 2 <up>, <enter> ```
 ![Image][6]
 
 ```git add ListExamples.java<enter> ```<br />```
 git commit -m "Fixed Errors"<enter> ```<br />```
-git push<enter> ```<br />``` ```
+git push<enter> ```
 ![Image][7]
 
 [1]: labReport41.png
