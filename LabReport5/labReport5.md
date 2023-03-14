@@ -5,9 +5,6 @@ lab report, I will repeat lab report 3 but with the `grep` command.
 
 ## Grep
 
--m --max-count=NUm, stops after NUM matches
-
-
 ## -c
 The -c option will print out the number of pattern matching lines. 
 
